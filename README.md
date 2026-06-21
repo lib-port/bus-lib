@@ -4,7 +4,7 @@ Course notes and project files related to business analysis, project management 
 
 Programme designed for mastery in product optimization,  project delivery, and intra-firm decision making.
 ## Business Analysis
-- [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course link](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
+- :notebook: [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course link](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
 - Codecademy Certified Business Analysis Professional (CBAP) (Path) ([course link](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
 ## Product
 - IBM Product Owner Professional Certificate ([course link](https://www.coursera.org/professional-certificates/ibm-product-owner))
