@@ -22,11 +22,11 @@ Product management guides a product from idea to market by aligning customer nee
 - Product Management in Practice, by Matt LeMay. ([publisher page](https://www.oreilly.com/library/view/product-management-in/9781491982266/))
 - Digital Product Management, by Kevin J. Brennan, Sallie Gregory, and Filip Hendrickx. ([publisher page](https://shop.bcs.org/page/detail/digital-product-management/?SF1=work_exact&ST1=DIGITALPRODUCTMANAGEMENT))
 ## Managerial Economics
-Managerial economics applies economic principles and analytical tools to help organizations allocate resources, assess trade-offs, and make sound strategic decisions. Business analysis, product management, and managerial economics complement each other by combining operational insight, customer-focused product strategy, and economic reasoning to drive informed, sustainable growth.
+Managerial economics applies economic principles and analytical tools to help organisations allocate resources, assess trade-offs, and make sound strategic decisions. Business analysis, product management, and managerial economics complement each other by combining operational insight, customer-focused product strategy, and economic reasoning to drive informed, sustainable growth.
 ### Course Notes and Project Files
 - University of Illinois Urbana-Champaign Managerial Economics and Business Analysis Specialization ([course link](https://www.coursera.org/specializations/managerial-economics-business-analysis))
 ## Finance
-Finance focuses on managing capital, investments, risk, and financial performance to support an organization’s stability and growth. Business analysis, product management, managerial economics, and finance complement one another by combining operational insight, customer-focused strategy, economic reasoning, and disciplined resource allocation to drive sound business decisions.
+Finance focuses on managing capital, investments, risk, and financial performance to support an organisation’s stability and growth. Business analysis, product management, managerial economics, and finance complement one another by combining operational insight, customer-focused strategy, economic reasoning, and disciplined resource allocation to drive sound business decisions.
 ### Course Notes and Project Files
 - MITx MicroMasters Program in Finance ([course link](https://micromasters.mit.edu/fin/))
 
