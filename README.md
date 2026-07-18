@@ -6,8 +6,8 @@ The programme is designed to develop mastery in business improvement, product st
 ## Business Analysis
 Business analysis is the process of identifying organisational needs, evaluating challenges, and uncovering opportunities for improvement. It helps organisations make informed decisions by translating data, stakeholder requirements, and strategic goals into practical solutions.
 ### Course Notes and Project Files
-- :construction: :notebook: [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course link](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
-- Codecademy Certified Business Analysis Professional (CBAP) (path) ([course link](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
+- :package: :notebook: [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course link](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
+- Certified Business Analysis Professional (CBAP) (path) ([course link](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
 ### Book Notes
 - Business Analysis, 4th edition, by Debra Paul, James Cadle, Malcolm Eva, Craig Rollason, and Jonathan Hunsley. ([publisher page](https://shop.bcs.org/page/detail/business-analysis/?SF1=work_exact&ST1=BUSINESSANALYSIS4))
 - Agile and Business Analysis, 2nd edition, by Lynda Girvan and Debra Paul. ([publisher page](https://shop.bcs.org/page/detail/?k=9781780176178))
