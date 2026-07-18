@@ -1,7 +1,6 @@
 # Data Visualization and Dashboards with Excel and Cognos
-
 > [!NOTE]
-> A tutorial on how to turn raw data into interactive visuals and dashboards by filtering datasets, selecting fit-for-purpose chart types from basic Excel charts through advanced options like histograms, scatter plots, sunbursts, maps and sparklines, assembling a focused dashboard with consistent layout and slicers, and extending the same principles in Cognos Analytics using templates, drag-and-drop or assistant-built visuals, calculated fields, top and bottom filters, navigation paths, and tab-level filtering.
+> These notes explain how to create clear, interactive charts and decision-focused dashboards in Excel and IBM Cognos Analytics using appropriate visualisations, filters, calculations and drill-down tools.
 ## Visualising Data Using Spreadsheets
 Charts convert a worksheet full of figures into a clear message. A dependable workflow starts by defining the comparison, narrowing the data to the relevant records, then choosing a chart type that matches the story the data can support.
 ### 1) Prepare the data before charting

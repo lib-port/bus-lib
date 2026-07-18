@@ -1,15 +1,13 @@
 # Excel Basics for Data Analysis
-
 >[!TIP]
 >These notes do not reflect full course content and are abridged to omit prior author knowledge
 
 > [!NOTE]
-> A practical introduction to spreadsheet-based data analysis, covering efficient navigation and selection, worksheet setup and formatting, error-aware formulas and references, text and date cleaning, importing delimited files, and core analysis techniques such as filtering, sorting, conditional logic, multi-criteria aggregation, lookups, and PivotTables with slicers and timelines.
+> These notes explain how analysts can use Excel to navigate, format, clean, transform and analyse data with formulas, lookups, filters, charts and PivotTables.
 ## Introduction to Data Analysis Using Spreadsheets
 ### Navigating and selecting efficiently
 The ribbon organises commands into tabs and groups; some groups expose extra options via a small dialog launcher. Frequently used commands can be added to the Quick Access Toolbar. 
 Navigation shortcuts include Ctrl+Home (A1), Ctrl+End (last used cell on the worksheet), and Ctrl+Arrow (jump to the edge of a contiguous data region). Selection scales from single cells to whole columns/rows, non-adjacent selections using Ctrl, and selecting only the used data with Ctrl+A.
-
 > [!TIP]
 > Ctrl+A selects the current region (or the entire table if the active cell is inside a table). Pressing Ctrl+A again selects the entire sheet.
 ### Strengths and limitations for analysts
