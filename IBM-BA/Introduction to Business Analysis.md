@@ -1,6 +1,6 @@
 # Introduction to Business Analysis
 > [!NOTE]
-> These notes explain the principles, methods, tools and applications of business analysis through exercises in process improvement, requirements traceability, opportunity prioritisation and digital transformation.
+> These notes explain how business analysis turns organisational needs into measurable change by aligning stakeholders, defining and prioritising requirements, evaluating solutions, managing risk and traceability, and assessing outcomes.
 ## Business analysis fundamentals
 ### Purpose and responsibilities
 A business analyst works with stakeholders and delivery specialists to establish why change is needed, what outcomes the organisation seeks and which requirements a solution must satisfy. The analyst clarifies assumptions, resolves conflicting expectations and maintains a clear link between needs, requirements, solution components and tests.
@@ -69,14 +69,14 @@ After implementation, the analyst compares results with agreed measures and iden
 ### Supporting tools
 Tools should support the analysis approach rather than determine it. Common uses include:
 
-| Purpose | Examples |
-| --- | --- |
-| Work tracking | Jira or Azure DevOps |
-| Collaborative documentation | Confluence or SharePoint |
-| Analysis and traceability | Excel or a requirements management platform |
-| Process and system modelling | Visio, Lucidchart or a modelling platform |
-| Data visualisation | Power BI or Tableau |
-| Team communication | Microsoft Teams or Slack |
+| Purpose                      | Examples                                    |
+| ---------------------------- | ------------------------------------------- |
+| Work tracking                | Jira or Azure DevOps                        |
+| Collaborative documentation  | Confluence or SharePoint                    |
+| Analysis and traceability    | Excel or a requirements management platform |
+| Process and system modelling | Visio, Lucidchart or a modelling platform   |
+| Data visualisation           | Power BI or Tableau                         |
+| Team communication           | Microsoft Teams or Slack                    |
 
 Tool configuration, terminology and access controls vary between organisations. The team should establish ownership, version control and traceability before relying on any platform as an authoritative source.
 ## Practical applications of business analysis
