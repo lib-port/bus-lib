@@ -1,15 +1,19 @@
 # IBM Business Analyst Professional Certificate Notes and Project Files
 Course notes for the [IBM Business Analyst Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate).
 ## Course Description
-The IBM Business Analyst Professional Certificate is a 3 month, self-paced programme designed to build job-ready business analysis capability, aligned with the BABOK Guide and supports preparation for the ECBA credential.
-### Course topics
-- Process modelling, requirements gathering, and stakeholder engagement
-- Project management fundamentals, including scoping and risk management
-- Systems analysis concepts and modelling techniques
-- Data analysis and data visualisation using spreadsheets and analytics tools, including Excel and IBM Cognos Analytics
-- Practical coverage of digital transformation topics, with attention to responsible AI themes
-
-Applied learning is emphasised through hands-on labs and projects. Examples include documenting requirements, visualising and improving a business process, building a business analysis matrix, and evaluating digital transformation scenarios.
+This course is a 4-month, self-paced programme aimed at reinforcing foundational skills for business analysts, including process modelling, requirements gathering, stakeholder engagement, systems analysis, and data visualisation using Excel and Cognos. Aligned with the Business Analysis Body of Knowledge (BABOK), it builds practical, job-ready capabilities and supports preparation for the Entry Certificate in Business Analysis (ECBA).
+### Projects
+This course includes hands-on labs and projects designed to build practical experience, such as:
+- Using Tools to Document Requirements
+- Visualizing and Improving a Business Process
+- Creating a Business Analysis Matrix
+- Evaluating Digital Transformation Scenarios
+- Creating an Order Management Flowchart
+- Creating a Use Case Diagram
+- Creating a Traceability Matrix
+- Developing a Stakeholder Register
+- Creating Visualizations with Cognos Analytics
+- Creating a Simple Dashboard in Excel
 ## Module Notes and Project Files
 - [Introduction to Business Analysis](Introduction%20to%20Business%20Analysis.md)
 - [Excel Basics for Data Analysis](Excel%20Basics%20for%20Data%20Analysis.md)
