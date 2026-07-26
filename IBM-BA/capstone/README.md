@@ -1,4 +1,5 @@
 # Capstone Project: Enhancing Operational Efficiency in a Multi-Specialty Hospital
+## Project Introduction
 You have recently joined HealthFirst Care as a Business Analyst. HealthFirst Care is a leading multispecialty hospital recognised for delivering high-quality patient care and providing advanced medical facilities.
 
 In response to increasing patient complaints and operational challenges, hospital management has launched an initiative to improve the overall patient experience. The initiative will focus on:
