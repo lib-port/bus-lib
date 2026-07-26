@@ -1,6 +1,6 @@
 # Introduction to Business Analysis
 > [!NOTE]
-> These notes explain how business analysis turns organisational needs into measurable change by aligning stakeholders, defining and prioritising requirements, evaluating solutions, managing risk and traceability, and assessing outcomes.
+> Explains how business analysis turns organisational needs into measurable change by aligning stakeholders, defining and prioritising requirements, evaluating solutions, managing risk and traceability, and assessing outcomes.
 ## Business analysis fundamentals
 ### Purpose and responsibilities
 A business analyst works with stakeholders and delivery specialists to establish why change is needed, what outcomes the organisation seeks and which requirements a solution must satisfy. The analyst clarifies assumptions, resolves conflicting expectations and maintains a clear link between needs, requirements, solution components and tests.

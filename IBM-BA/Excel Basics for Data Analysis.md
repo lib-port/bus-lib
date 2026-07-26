@@ -3,7 +3,7 @@
 >These notes do not reflect full course content and are abridged to omit prior author knowledge
 
 > [!NOTE]
-> These notes explain how analysts can use Excel to navigate, format, clean, transform and analyse data with formulas, lookups, filters, charts and PivotTables.
+> Explains how analysts can use Excel to navigate, format, clean, transform and analyse data with formulas, lookups, filters, charts and PivotTables.
 ## Introduction to Data Analysis Using Spreadsheets
 ### Navigating and selecting efficiently
 The ribbon organises commands into tabs and groups; some groups expose extra options via a small dialog launcher. Frequently used commands can be added to the Quick Access Toolbar. 

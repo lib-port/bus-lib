@@ -2,7 +2,7 @@
 
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and University of Illinois Urbana-Champaign.
 
-The programme is designed to develop mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
+This programme is designed for mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
 ## Business Analysis
 Business analysis is the process of identifying organisational needs, evaluating challenges, and uncovering opportunities for improvement. It helps organisations make informed decisions by translating data, stakeholder requirements, and strategic goals into practical solutions.
 ### Course Notes and Project Files

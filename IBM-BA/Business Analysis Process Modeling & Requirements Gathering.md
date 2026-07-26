@@ -1,6 +1,6 @@
 # Business Analysis: Process Modelling and Requirements Elicitation
 > [!NOTE]
-> These notes explain how business analysts use BABOK-aligned planning, elicitation, requirements management, agile practices, process modelling and evidence-based improvement to deliver valuable organisational change.
+> Explains how business analysts use BABOK-aligned planning, elicitation, requirements management, agile practices, process modelling and evidence-based improvement to deliver valuable organisational change.
 
 Business analysis defines needs, recommends valuable change and helps organisations evaluate outcomes. Effective analysis connects strategy, stakeholders, requirements, designs, delivery and benefits through clear decisions and verifiable evidence.
 ## Business analysis and the BABOK Guide
