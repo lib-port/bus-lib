@@ -1,6 +1,6 @@
 # Business Analysis, Product Management, Managerial Economics, and Finance Programme
 
-Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and University of Illinois Urbana-Champaign.
+Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
 
 This programme is designed for mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
 ## Business Analysis
@@ -10,7 +10,7 @@ Business analysis is the process of identifying organisational needs, evaluating
 </details>
 
 ### Course Notes and Project Files
-- :package: :notebook: [IBM Business Analyst Professional Certificate](/IBM-BA/README.md) ([course](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
+- :package: :notebook: [IBM Business Analyst Professional Certificate](IBM-BA/README.md) ([course](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
 - Certified Business Analysis Professional (CBAP) (path) ([course](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
 ### Book Notes
 - Business Analysis, 4th edition, by Debra Paul, James Cadle, Malcolm Eva, Craig Rollason, and Jonathan Hunsley. ([publisher page](https://shop.bcs.org/page/detail/business-analysis/?SF1=work_exact&ST1=BUSINESSANALYSIS4))
@@ -26,7 +26,7 @@ Product management guides a product from idea to market by aligning customer nee
 - IBM Product Owner Professional Certificate ([course](https://www.coursera.org/professional-certificates/ibm-product-owner))
 - IBM Product Manager Professional Certificate ([course](https://www.coursera.org/professional-certificates/ibm-product-manager))
 ### Book Notes
-- The Professional Product Owner, by Don McGreal and Ralph Jocham. ([publisher page](https://www.informit.com/store/professional-product-owner-leveraging-scrum-as-a-competitive-9780134686479))    
+- The Professional Product Owner, by Don McGreal and Ralph Jocham. ([publisher page](https://www.informit.com/store/professional-product-owner-leveraging-scrum-as-a-competitive-9780134686479))
 - Product Management in Practice, by Matt LeMay. ([publisher page](https://www.oreilly.com/library/view/product-management-in/9781491982266/))
 - Digital Product Management, by Kevin J. Brennan, Sallie Gregory, and Filip Hendrickx. ([publisher page](https://shop.bcs.org/page/detail/digital-product-management/?SF1=work_exact&ST1=DIGITALPRODUCTMANAGEMENT))
 ## Managerial Economics
