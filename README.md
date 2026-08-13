@@ -4,14 +4,14 @@ Notes and project files related to business analysis, product management, manage
 
 This programme is designed for mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
 
-:notebook: = note(s) | :package: = project(s) | :gear: = lab(s)
+:notebook: = note(s) | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
 ## Business Analysis
 <details>
 <summary>Introduction</summary>
 Business analysis is the process of identifying organisational needs, evaluating challenges, and uncovering opportunities for improvement. It helps organisations make informed decisions by translating data, stakeholder requirements, and strategic goals into practical solutions.
 </details>
 
-### Course Notes and Project Files
+### Course Notes and Projects
 - :package: :notebook: [IBM Business Analyst Professional Certificate](IBM-BA/README.md) ([course](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
 - Certified Business Analysis Professional (CBAP) (path) ([course](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
 ### Book Notes
@@ -24,7 +24,7 @@ Business analysis is the process of identifying organisational needs, evaluating
 Product management guides a product from idea to market by aligning customer needs, business goals, and cross-functional execution. Business analysis and product management complement each other by combining strategic product direction with rigorous requirements, process evaluation, and data-driven insight.
 </details>
 
-### Course Notes and Project Files
+### Course Notes and Projects
 - IBM Product Owner Professional Certificate ([course](https://www.coursera.org/professional-certificates/ibm-product-owner))
 - IBM Product Manager Professional Certificate ([course](https://www.coursera.org/professional-certificates/ibm-product-manager))
 ### Book Notes
@@ -37,7 +37,7 @@ Product management guides a product from idea to market by aligning customer nee
 Managerial economics applies economic principles and analytical tools to help organisations allocate resources, assess trade-offs, and make sound strategic decisions. Business analysis, product management, and managerial economics complement each other by combining operational insight, customer-focused product strategy, and economic reasoning to drive informed, sustainable growth.
 </details>
 
-### Course Notes and Project Files
+### Course Notes and Projects
 - University of Illinois Urbana-Champaign Managerial Economics and Business Analysis Specialization ([course](https://www.coursera.org/specializations/managerial-economics-business-analysis))
 ## Finance
 <details>
