@@ -4,7 +4,7 @@ Notes and project files related to business analysis, product management, manage
 
 This programme is designed for mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
 
-:notebook: = note(s) | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
+:notebook: = notes | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
 ## Business Analysis
 <details>
 <summary>Introduction</summary>
