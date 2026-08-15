@@ -1,4 +1,4 @@
-# Business Analysis, Product Management, Managerial Economics, and Finance Programme
+# :mag: Business Analysis, Product Management, Managerial Economics, and Finance Programme
 
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
 
@@ -13,11 +13,13 @@ Business analysis is the process of identifying organisational needs, evaluating
 
 ### Course Notes and Projects
 - :package: :notebook: [IBM Business Analyst Professional Certificate](IBM-BA/README.md) ([course](https://www.coursera.org/professional-certificates/ibm-business-analyst-professional-certificate))
-- Certified Business Analysis Professional (CBAP) (path) ([course](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
+- Certified Business Analysis Professional (CBAP) ([course](https://www.codecademy.com/learn/ext-paths/certified-business-analysis-professional-cbap-babok-r-v3))
 ### Book Notes
 - Business Analysis, 4th edition, by Debra Paul, James Cadle, Malcolm Eva, Craig Rollason, and Jonathan Hunsley. ([catalogue](https://shop.bcs.org/page/detail/business-analysis/?SF1=work_exact&ST1=BUSINESSANALYSIS4))
-- Agile and Business Analysis, 2nd edition, by Lynda Girvan and Debra Paul. ([catalogue](https://shop.bcs.org/page/detail/?k=9781780176178))
 - Business Analysis Techniques, 3rd edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, and Paul Turner. ([catalogue](https://shop.bcs.org/page/detail/business-analysis-techniques/?SF1=work_exact&ST1=BUSINESSANALYSISTECHNIQUES3))
+- Agile and Business Analysis, 2nd edition, by Lynda Girvan and Debra Paul. ([catalogue](https://shop.bcs.org/page/detail/?k=9781780176178))
+- Software Requirements, 3rd edition, by Karl Wiegers and Joy Beatt. ([catalogue](https://www.microsoftpressstore.com/store/software-requirements-9780735679665))
+- Systems Analysis and Design, 7th edition, by David P. Tegarden, Binny Samuel, Roman Lukyanenko, Alan Dennis, and Barbara Haley Wixom. ([catalogue](https://www.wiley.com/en-us/systems-analysis-and-design-an-object-oriented-approach-with-uml-7th-edition-p-9781394331727))
 ## Product Management
 <details>
 <summary>Introduction</summary>
