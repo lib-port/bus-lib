@@ -1,8 +1,6 @@
-# :mag: Business Analysis, Product Management, Managerial Economics, and Finance Programme
+# Business Analysis, Product Management, Managerial Economics, and Finance Library
 
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
-
-This programme is designed for mastery in business improvement, product strategy and delivery, managerial decision-making, and capital allocation.
 
 :notebook: = notes | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
 ## Business Analysis
