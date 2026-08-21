@@ -1,4 +1,4 @@
-# Business Analysis, Product Management, Managerial Economics, and Finance Library
+# Business Library
 
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
 
