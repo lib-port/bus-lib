@@ -24,6 +24,6 @@ This course includes hands-on labs and projects designed to build practical expe
 - [Generative AI Revolutionizing Business Analysis Techniques](Generative%20AI%20Revolutionizing%20Business%20Analysis%20Techniques.md)
 ## Further Reading
 Notes are supplemented with information from third-party sources, including:
-- Business Analysis, 4th edition, by Debra Paul, James Cadle, Malcolm Eva, Craig Rollason, and Jonathan Hunsley. ([publisher page](https://shop.bcs.org/page/detail/business-analysis/?SF1=work_exact&ST1=BUSINESSANALYSIS4))
-- Business Analysis Techniques, 3rd edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, and Paul Turner. ([publisher page](https://shop.bcs.org/page/detail/business-analysis-techniques/?SF1=work_exact&ST1=BUSINESSANALYSISTECHNIQUES3))
-- Agile and Business Analysis, 2nd edition, by Lynda Girvan and Debra Paul. ([publisher page](https://shop.bcs.org/page/detail/?k=9781780176178))
+- Business Analysis, 4th edition, by Debra Paul, James Cadle, Malcolm Eva, Craig Rollason, and Jonathan Hunsley. ([catalogue](https://shop.bcs.org/page/detail/business-analysis/?SF1=work_exact&ST1=BUSINESSANALYSIS4))
+- Business Analysis Techniques, 3rd edition, by James Cadle, Debra Paul, Jonathan Hunsley, Adrian Reed, David Beckham, and Paul Turner. ([catalogue](https://shop.bcs.org/page/detail/business-analysis-techniques/?SF1=work_exact&ST1=BUSINESSANALYSISTECHNIQUES3))
+- Agile and Business Analysis, 2nd edition, by Lynda Girvan and Debra Paul. ([catalogue](https://shop.bcs.org/page/detail/?k=9781780176178))
