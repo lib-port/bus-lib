@@ -1,7 +1,7 @@
 # Business Library
 
-[![GitBook site](https://img.shields.io/badge/gitbook-site-orange?style=flat-square&logo=gitbook)](https://lib-port.gitbook.io/bus-lib)
-[![GitHub repo](https://img.shields.io/badge/github-repo-blue?style=flat-square&logo=github)](https://github.com/lib-port/bus-lib)
+[![GitBook site](https://img.shields.io/badge/gitbook-site-orange?style=flat-square)](https://lib-port.gitbook.io/bus-lib)
+[![GitHub repo](https://img.shields.io/badge/github-repo-blue?style=flat-square)](https://github.com/lib-port/bus-lib)
 
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
 
