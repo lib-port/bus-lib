@@ -4,8 +4,9 @@ Notes and project files related to business analysis, product management, manage
 
 :notebook: = notes | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
 
-Notes published at: [lib-port.gitbook.com/bus-lib](https://lib-port.gitbook.com/bus-lib)
-Source repo at: [github.com/lib-port/bus-lib](github.com/lib-port/bus-lib)
+Notes published at: [lib-port.gitbook.io/bus-lib](https://lib-port.gitbook.com/bus-lib)
+
+Source repo at: [github.com/lib-port/bus-lib](https://github.com/lib-port/bus-lib)
 ## Business Analysis
 <details>
 <summary>Introduction</summary>
