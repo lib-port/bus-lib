@@ -3,6 +3,8 @@
 Notes and project files related to business analysis, product management, managerial economics, and finance courses and books. Course providers include IBM, Codecademy, MITx, and the University of Illinois Urbana-Champaign.
 
 :notebook: = notes | :package: = project(s) | :gear: = lab(s) | :construction: = in progress
+
+%% Notes published at [lib-port.gitbook.com/bus-lib](https://lib-port.gitbook.com/bus-lib) %%
 ## Business Analysis
 <details>
 <summary>Introduction</summary>
